@@ -19,13 +19,7 @@ marp: true
 
 ### ipaas
 ![ipaas](https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png)
-![image](ipaas1.png)
-
----
-
-### ipaas
-![image](ipaas2.png)
-
+![ipaas2](https://user-images.githubusercontent.com/69182192/91016102-307f8d00-e627-11ea-9edc-eb6e18c6ca22.png)
 
 ---
 |ipaas 특징|
@@ -56,7 +50,7 @@ marp: true
 ---
 # ipaas에 필요한 사전기술
 
-![image](ipaas3.png)  ![image](ipaas4.png) ![image](ipaas5..png)
+![ipaas3](https://user-images.githubusercontent.com/69182192/91016103-31182380-e627-11ea-9004-6535fb154245.png)  ![ipaas4](https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png) ![ipaas5](https://user-images.githubusercontent.com/69182192/91016106-32e1e700-e627-11ea-8efe-12d500b4ae1d.png)
 
 
 
