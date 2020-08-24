@@ -20,7 +20,7 @@
 
 ---
 ### ipaas
-![ipaas1](https://user-images.githubusercontent.com/69182192/91016099-2fe6f680-e627-11ea-9ebe-40665d388895.png)
+<img src = "https://user-images.githubusercontent.com/69182192/91016099-2fe6f680-e627-11ea-9ebe-40665d388895.png" width="250px">
 
 ---
 
