@@ -2,7 +2,7 @@
 # ipaas (integration platform as a service)
 
 
-### ipaas는 무엇이고 어떻게 작동하는지, 그리고 특징과 장,단점에 대해서 살펴보고 ipaas를 사용하기 이전에 필요한 사전기술에 대해서 알아보도록 하자 
+### ipaas에 개념과 특징에 대해서 그리고, ipaas를 사용하기 전에 필요한 사전기술은 어떠한 것들이 있는지 살펴보자
 
 <br/>
 <br/>
