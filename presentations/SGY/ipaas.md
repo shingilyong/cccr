@@ -18,7 +18,7 @@ marp: true
 ---
 
 ### ipaas
-![image](ipaas.png)
+![ipaas](https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png)
 ![image](ipaas1.png)
 
 ---
