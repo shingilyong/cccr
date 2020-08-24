@@ -1,6 +1,3 @@
----
-marp: true
----
 
 # ipaas 
 # (integration platform as a service)
@@ -19,6 +16,7 @@ marp: true
 
 ### ipaas
 ![ipaas](https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png)
+iPaaS 는 소프트웨어 엔지니어가 응용 프로그램 및 서비스를 배포, 관리 및 통합 할 수있는 클라우드 기반 도구 모음입니다.
 ![ipaas1](https://user-images.githubusercontent.com/69182192/91016099-2fe6f680-e627-11ea-9ebe-40665d388895.png)
 
 ---
@@ -36,20 +34,22 @@ marp: true
 # ipaas 이점
 
 
-접근성
+접근성 : iPaaS는 인터넷 연결을 통해 어디서나 액세스 할 수 있는 웹 인터페이스가 특징
 
-연결성
 
-통합
+연결성 : ERP 등 주요 시장 응용 프로그램과 MYSQL, ORACLE과 같은 데이터베이스에 대한 커넥터를 통한 통신을 제공
 
-실시간 처리
+
+통합 : 조직 내외부의 가상 및 로컬 환경에서 온 솔루션과 데이터를 통합
+
+실시간 처리 : 효율적인 의사결정 및 신속한 처리 및 고객 응답 시간 개선
 
 ---
 # ipaas 단점
 
-복잡한 통합 X
+복잡한 통합 X : 복잡한 수준의 시스템 통합 및 Work-flow에는 버그가 발생할 수 있음
 
-제한적
+제한적 : 공식적으로 지원되는 앱만 사용하도록 제한
 
 ---
 # ipaas에 필요한 사전기술
