@@ -66,8 +66,7 @@
 
 ---
 # ipaas에 필요한 사전기술
-
-![ipaas3](https://user-images.githubusercontent.com/69182192/91016103-31182380-e627-11ea-9004-6535fb154245.png) ![ipaas4](https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png) ![ipaas5](https://user-images.githubusercontent.com/69182192/91016106-32e1e700-e627-11ea-8efe-12d500b4ae1d.png)
+<img src = "https://user-images.githubusercontent.com/69182192/91016103-31182380-e627-11ea-9004-6535fb154245.png" width="300px"> <img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="300px"> <img src = "https://user-images.githubusercontent.com/69182192/91016106-32e1e700-e627-11ea-8efe-12d500b4ae1d.png" width="300px">
 
 ---
 # 요약
