@@ -3,13 +3,13 @@
 
 ---
 
-# Contents
+## Contents
 
-## ipaas ?
-## ipaas 특징
-## ipaas 장,단점
-## ipaas 에 필요한 사전기술
-## 요약
+### ipaas ?
+### ipaas 특징
+### ipaas 장,단점
+### ipaas 에 필요한 사전기술
+### 요약
 
 ---
 
