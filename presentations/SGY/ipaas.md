@@ -73,15 +73,16 @@
 ---
 # ipaas에 필요한 사전기술
 <img src = "https://user-images.githubusercontent.com/69182192/91016103-31182380-e627-11ea-9004-6535fb154245.png" width="200px"> <br/> OAuth는 기존의 쿠키와 세션 기반의 사용자 인증 방식을 보완한 토큰 기반의 인증 방식입니다. <br/>엄밀히 말하면, 사용자 인증을 인가하는 방식이라고 할 수 있습니다<br/>
-<img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/> REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다. <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이보다 민첩 해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/><img src = "https://user-images.githubusercontent.com/69182192/91016106-32e1e700-e627-11ea-8efe-12d500b4ae1d.png" width="200px"> 
+<img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/> REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다. <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이보다 민첩 해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/>
 
 ---
 # 요약
 
-iPaaS 는 소프트웨어 엔지니어가 응용 프로그램 및 서비스를 배포, 관리 및 통합 할 수있는 클라우드 기반 도구 모음이며,
+iPaaS 는 소프트웨어 엔지니어가 응용 프로그램 및 서비스를 배포, 관리 및 통합 할 수있는 클라우드 기반 도구 모음이며,<br/>
 하드웨어나 미들웨어를 설치하거나 관리하지 않고도 배포 할 수 있음.
 
-ipaas 통합 플랫폼을 사용하기 위해서는 보안이 생명, 사용자 인증 및 인가를 위한 Oauth에 대해서 알아봄.
+ipaas 통합 플랫폼을 사용하기 위해서는 보안이 생명, 사용자 인증 및 인가를 위한 Oauth,<br/>
+통합을 효율적으로 하기 위한 REST API에 대해서 알아봄
 
 
 
