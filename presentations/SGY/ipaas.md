@@ -72,8 +72,7 @@
 
 ---
 # ipaas에 필요한 사전기술
-<img src = "https://user-images.githubusercontent.com/69182192/91016103-31182380-e627-11ea-9004-6535fb154245.png" width="200px"> <br/> OAuth는 기존의 쿠키와 세션 기반의 사용자 인증 방식을 보완한 토큰 기반의 인증 방식입니다. 
-엄밀히 말하면, 사용자 인증을 인가하는 방식이라고 할 수 있습니다<br/>
+<img src = "https://user-images.githubusercontent.com/69182192/91016103-31182380-e627-11ea-9004-6535fb154245.png" width="200px"> <br/> OAuth는 기존의 쿠키와 세션 기반의 사용자 인증 방식을 보완한 토큰 기반의 인증 방식입니다. <br/>엄밀히 말하면, 사용자 인증을 인가하는 방식이라고 할 수 있습니다<br/>
 <img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <img src = "https://user-images.githubusercontent.com/69182192/91016106-32e1e700-e627-11ea-8efe-12d500b4ae1d.png" width="200px"> 
 
 ---
