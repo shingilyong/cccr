@@ -1,7 +1,5 @@
 
-# ipaas
----
-(integration platform as a service)
+# ipaas (integration platform as a service)
 
 ---
 
