@@ -25,7 +25,13 @@ iPaaS를 통해 사용자는 클라우드 또는 온-프레미스에있는 응�
 ---
 
 ### ipaas
-![ipaas2](https://user-images.githubusercontent.com/69182192/91016102-307f8d00-e627-11ea-9edc-eb6e18c6ca22.png)
+![ipaas2](https://user-images.githubusercontent.com/69182192/91016102-307f8d00-e627-11ea-9edc-eb6e18c6ca22.png) <br/>
+iPaaS에는 여러 분산 된 응용 프로그램이 정보를 공유하고 동기화 된 상태로 유지할 수 있도록 하는 일련의 기본 프로세스가 포함된다.
+
+ipaas는 다른 애플리케이션과 통신하여 데이터를 추출한다.
+
+매핑 프로세스를 통해 데이터를 대상 응용 프로그램의 형식으로 변환하고 통합한다.
+
 
 
 ---
