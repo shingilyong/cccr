@@ -16,9 +16,9 @@
 ---
 
 ### ipaas
-<img src = "/home/student/cccr/presentations/SGY/ipaas.png" width="40%">
+![ipaas](https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png)
+<img src = "https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png" width="400px">
 
-출처: https://pongsoyun.tistory.com/125 [palette]
 ---
 ### ipaas
 ![ipaas1](https://user-images.githubusercontent.com/69182192/91016099-2fe6f680-e627-11ea-9ebe-40665d388895.png)
