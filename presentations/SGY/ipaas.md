@@ -16,8 +16,7 @@
 ---
 
 ### ipaas
-![ipaas](https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png)
-<img src = "https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png" width="400px">
+<img src = "https://user-images.githubusercontent.com/69182192/91016009-0fb73780-e627-11ea-9fb1-c67772b3b0e3.png" width="100px">
 
 ---
 ### ipaas
