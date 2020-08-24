@@ -8,10 +8,11 @@
 
 #### [1. ipaas ?](#ipaas)
 #### [2. ipaas 특징](#ipaas-특징)
-#### [3. ipaas 장점](#ipaas-장점)
-#### [4. ipaas 단점](#ipaas-단점)
-#### [5. ipaas 에 필요한 사전기술](#ipaas에-필요한-사전기술)
-#### [6. 요약](#요약)
+#### [3. ipaas 작동방식](#ipaas-작동방식)
+#### [4. ipaas 장점](#ipaas-장점)
+#### [5. ipaas 단점](#ipaas-단점)
+#### [6. ipaas 에 필요한 사전기술](#ipaas에-필요한-사전기술)
+#### [7. 요약](#요약)
 
 ---
 
@@ -24,7 +25,7 @@
 
 ---
 
-### ipaas
+### ipaas 작동방식
 ![ipaas2](https://user-images.githubusercontent.com/69182192/91016102-307f8d00-e627-11ea-9edc-eb6e18c6ca22.png) <br/>
 1. iPaaS에는 여러 분산 된 응용 프로그램이 정보를 공유하고 동기화 된 상태로 유지할 수 있도록 하는 일련의 기본 프로세스가 포함된다.
 
