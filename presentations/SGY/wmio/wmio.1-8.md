@@ -14,16 +14,16 @@ webmethods.io youtube영상을 보고 나서 내용을 정리해보자
 [8회](#8회)<br/>
 ## 1회
 WebMethods.io 계정을 생성하고 로그인하는 방법을 알려줌 <br/>
-       1. 홈페이지 접속<br/>
-       <img src = "https://user-images.githubusercontent.com/69182192/91125229-31bec180-e6dc-11ea-8b6b-12d354f5b8fa.png" width="250px"> <br/>
-       2. 홈페이지 우측 상단에 Login 클릭 <br/>
-       <img src = "https://user-images.githubusercontent.com/69182192/91125232-34b9b200-e6dc-11ea-8ed4-e3b817b2b504.png" width="250px"> <br/>
-       3. 회원가입 화면 접속<br/>
-       <img src = "https://user-images.githubusercontent.com/69182192/91125404-a265de00-e6dc-11ea-8431-e6b1b98395ab.png" width="250px"> <br/> 
-       4. 회원가입 후 로그인<br/>
-       <img src = "https://user-images.githubusercontent.com/69182192/91125408-a42fa180-e6dc-11ea-8671-c4f5e2837749.png" width="250px"> <br/> 
-       5. 로그인 후 접속화면<br/>
-       <img src = "https://user-images.githubusercontent.com/69182192/91125412-a4c83800-e6dc-11ea-939a-95bf5bf8b4eb.png" width="250px"> <br/> 
+       1. 홈페이지 접속<br/><br/>
+       <img src = "https://user-images.githubusercontent.com/69182192/91125229-31bec180-e6dc-11ea-8b6b-12d354f5b8fa.png" width="250px"> <br/><br/>
+       2. 홈페이지 우측 상단에 Login 클릭 <br/><br/>
+       <img src = "https://user-images.githubusercontent.com/69182192/91125232-34b9b200-e6dc-11ea-8ed4-e3b817b2b504.png" width="400px"> <br/><br/>
+       3. 회원가입 화면 접속<br/><br/>
+       <img src = "https://user-images.githubusercontent.com/69182192/91125404-a265de00-e6dc-11ea-8431-e6b1b98395ab.png" width="250px"> <br/> <br/>
+       4. 회원가입 후 로그인<br/><br/>
+       <img src = "https://user-images.githubusercontent.com/69182192/91125408-a42fa180-e6dc-11ea-8671-c4f5e2837749.png" width="400px"> <br/> <br/>
+       5. 로그인 후 접속화면<br/><br/>
+       <img src = "https://user-images.githubusercontent.com/69182192/91125412-a4c83800-e6dc-11ea-939a-95bf5bf8b4eb.png" width="400px"> <br/> <br/>
 ## 2회
 새 프로젝트와 워크플로우를 만들고 트리거와 커넥터를 사용해서 트위터와 슬랙을 연결함
 1.프로젝트 화면으로 접속
