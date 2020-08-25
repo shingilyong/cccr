@@ -104,11 +104,12 @@ parameters이름에 지정된 수직 줄임표 아이콘을 클릭하고 삭제�
 
 모니터 탭에는 다양한 작업을 수행 할 수있는 화면 왼쪽에있는 Execution Results , Alert Rules 및 General의 세 섹션이 있습니다.
 
-### Execution Results
+#### Execution Results
+
 Execution Results 섹션은 각 실행 로그와 함께 워크 플로 실행 및 FlowService 실행 (활성화 된 경우)과 관련된 통계에 대한 빠른 개요를 제공합니다.
-### Alert Rules
+#### Alert Rules
 webMethods.io 통합을 사용하면 워크 플로 또는 FlowService가 실패하거나 시간 초과되거나 실행이 완료 될 때 특정 사용자에게 알림을 보내도록 프로젝트에 대한 자동 경고 규칙을 설정할 수 있습니다.
-### General
+#### General
 General 섹션에서는 감사 로그를 통해 테넌트 활동을보고 추적하고 모니터링하고 트랜잭션 기반 테넌트에 대한 이번 달의 트랜잭션 사용 통계를 볼 수 있습니다.
 
 ## Mapper
