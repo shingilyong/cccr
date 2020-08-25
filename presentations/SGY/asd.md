@@ -1,9 +1,9 @@
 ## 목차
 
-  ###  [**webMethods.io란?**](#webmethods)
+  ###  [webMethods.io란?](#webmethods)
   ###  [**webMethods.io 서비스**](#webmethods.io-서비스)
    ###  [**webMethods.io B2B**](#webmethods.io-b2b)
-   ###  [**webMethods.io API**](#webmethods.io-api)
+   ###  [webMethods.io API](#webmethods.io-api)
    ###  [**webMethods.io Integration**](#webmethods.io-integration)
 
 <br>
