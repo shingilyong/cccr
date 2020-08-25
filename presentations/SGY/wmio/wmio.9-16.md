@@ -16,7 +16,7 @@ webmethods.io youtube영상을 보고 나서 내용을 정리해보자
 
 프로젝트 수준 매개 변수 (키-값 쌍)를 정의하고 해당 프로젝트의 모든 워크 플로에 전달합니다. 프로젝트 	수준 매개 변수가 무엇인지, 설정 방법 및 프로젝트에서 삭제하는 방법을 알아 봅니다.
 
-## 1) Adding a Parameters
+###1) Adding a Parameters
 
 Parameters로  값을 특정 키 (식별자) 바인딩 할 수 있습니다.<br/> 프로젝트의 모든 워크 플로 내에서 사용할 수있는 프로젝트에 대한 사용자 지정 키-값 쌍을 추가 할 수 있습니다.<br/> 이렇게하면 특정 값을 반복해서 입력 할 필요가 없습니다.<br/>
 
@@ -54,7 +54,7 @@ Add Parameter를 클릭합니다 .<br/>
 
 관련 입력을 제공하고 옵션을 선택하여 parameters를 필수로 표시하거나 비밀번호 필드로 설정하십시오. 이 작업이 완료되면 add를 클릭 합니다.<br/>
 
-## 1) editing Parameters
+### 1) editing Parameters
 
 정의 된 parameters를 편집 할 수 있습니다.<br/>
 
@@ -68,7 +68,7 @@ parameters 이름에 지정된 수직 줄임표 아이콘을 클릭하고 Edit p
 
 이렇게하면 지정된 parameters가 업데이트됩니다.
 
-## 2) Deleting Parameters
+### 2) Deleting Parameters
 
 프로젝트에서 정의 된 parameters를 삭제할 수 있습니다.<br/>
 
@@ -82,7 +82,7 @@ parameters이름에 지정된 수직 줄임표 아이콘을 클릭하고 삭제�
     이 경우 parameters를 영구적으로 삭제하기 전에 먼저 지정된 워크 플로에서 parameters를 제거해야합니다.
 
 
-## Using Parameters
+### Using Parameters
 
 
 프로젝트에 대한 Parameters를 정의한 후에는 해당 프로젝트의 모든 워크 플로우에서 사용할 수 있습니다. 이렇게하려면 Parameters를 사용할 워크 플로 작업을 엽니 다. 이 예에서는 이메일 보내기 작업 에서 Parameters를 사용합니다 .
@@ -104,11 +104,11 @@ parameters이름에 지정된 수직 줄임표 아이콘을 클릭하고 삭제�
 
 모니터 탭에는 다양한 작업을 수행 할 수있는 화면 왼쪽에있는 Execution Results , Alert Rules 및 General의 세 섹션이 있습니다.
 
-## Execution Results
+### Execution Results
 Execution Results 섹션은 각 실행 로그와 함께 워크 플로 실행 및 FlowService 실행 (활성화 된 경우)과 관련된 통계에 대한 빠른 개요를 제공합니다.
-## Alert Rules
+### Alert Rules
 webMethods.io 통합을 사용하면 워크 플로 또는 FlowService가 실패하거나 시간 초과되거나 실행이 완료 될 때 특정 사용자에게 알림을 보내도록 프로젝트에 대한 자동 경고 규칙을 설정할 수 있습니다.
-## General
+### General
 General 섹션에서는 감사 로그를 통해 테넌트 활동을보고 추적하고 모니터링하고 트랜잭션 기반 테넌트에 대한 이번 달의 트랜잭션 사용 통계를 볼 수 있습니다.
 
 ## Mapper
